@@ -1,0 +1,1 @@
+{\n  "appSettings": {\n    "environment": "development",\n    "logLevel": "debug"\n  },\n  "apiKeys": {\n    "serviceA": "your-service-a-api-key",\n    "serviceB": "your-service-b-api-key"\n  }\n}
